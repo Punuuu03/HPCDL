@@ -1,0 +1,13 @@
+command for run on window terminal for open mp 
+
+g++ -fopenmp min.cpp
+
+a
+
+command for run on terminal on ubunto
+
+g++ min.cpp
+
+./a.out
+
+
